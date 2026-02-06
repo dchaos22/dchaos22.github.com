@@ -93,7 +93,6 @@ nav a {
 
 .hdr-selection {
   /* Header Font */
-  font-family: 'Arial','Segoe UI','Arial','sans-serif';
   font-size: 45px;
   font-weight: 500;
   letter-spacing: 0.5px;
@@ -175,7 +174,6 @@ transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
 .navbar-nav {
-    font-family: 'Arial','Segoe UI','Arial','sans-serif';
 	gap: 15px;
 }
 /** -------------------------- AUTOMATIC DROP DOWN - END -------------------------- **/
@@ -305,7 +303,6 @@ padding-top: 100px; /* adjust to match your header height */
 /* Whats New Section */
 .custom1 h1{
 	  /* Header Font */
-  font-family: "Roboto", "Segoe UI", Arial, sans-serif;
   font-size: 45px;
   color: #4B6939;
   letter-spacing: 0.5px;
@@ -407,7 +404,6 @@ padding-top: 100px; /* adjust to match your header height */
 
 .ldrs_custom {
 	  /* Header Font */
-  font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
   font-size: 15px;
   font-weight: 310;
   letter-spacing: 0.5px;
@@ -423,7 +419,7 @@ padding-top: 100px; /* adjust to match your header height */
 }
 
 .leadership-hero p{
-  font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
+
   font-size: 25px;
 }
 
@@ -474,7 +470,6 @@ padding-top: 100px; /* adjust to match your header height */
 }
 
 .contact_mdl p {
-	font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
 	font-size: 18px;
 	color: gray;
 }
@@ -499,7 +494,7 @@ padding-top: 100px; /* adjust to match your header height */
 
 /*--Footer Section--*/
 footer {
-  font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
+
   background: #333; /* dark background */
   color: white;
 }
@@ -513,7 +508,7 @@ footer .quick-links{
 
 footer .quick-links h4 {
   padding-left: 70px;
-  font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
+
   font-size: 40px;
   letter-spacing: 0.5px;
   color: green;
@@ -531,7 +526,6 @@ footer a:hover {
 }
 
 footer .list-unstyled li a {
-	font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
 	line-height: 2.5; /* increases spacing between lines */
 	letter-spacing: 0.5px;
 	font-size: 21px;
@@ -556,14 +550,12 @@ footer .testimage img{
 footer .testimage h4 {
   margin-top: 50px;
   padding-right: 100px;
-  font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
   font-size: 40px;
   letter-spacing: 0.5px;
   color: white;
 }
 footer .testimage p {
   padding-right: 100px;
-  font-family: "Roboto", "Segoe UI", "Arial, sans-serif";
   font-size: 20px;
   letter-spacing: 0.5px;
   color: white;
