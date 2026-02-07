@@ -445,6 +445,7 @@ padding-top: 100px; /* adjust to match your header height */
   font-size: clamp(24px, 4vw, 40px); /* scales heading size */
   margin-bottom: 20px;
   padding-left: 10px;
+  text-align: center;
 }
 
 .div_secterm p {
@@ -601,5 +602,6 @@ footer .testimage p {
 html {
   scroll-behavior: smooth;
 }
+
 
 
