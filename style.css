@@ -444,12 +444,14 @@ padding-top: 100px; /* adjust to match your header height */
 .div_secterm h1 {
   font-size: clamp(24px, 4vw, 40px); /* scales heading size */
   margin-bottom: 20px;
+  padding-left: 10px;
 }
 
 .div_secterm p {
   text-align: justify;
   margin-bottom: 15px;
   line-height: 1.6;
+  padding-left: 10px;
 }
 
 .div_secterm img{
@@ -599,4 +601,5 @@ footer .testimage p {
 html {
   scroll-behavior: smooth;
 }
+
 
