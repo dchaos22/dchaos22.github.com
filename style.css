@@ -147,7 +147,6 @@ a.btn-contact:hover {
 
 /** -------------------------- AUTOMATIC DROP DOWN - START -------------------------- **/
 .dropdown {
-  font-family: 'Tahoma';
   position: relative;
   font-size: 5px;
   padding-left: 0;
@@ -943,4 +942,5 @@ footer .testimage p {
 html {
   scroll-behavior: smooth;
 }
+
 
