@@ -226,7 +226,7 @@ border-radius: 10px;
 }
 
 .navbar-nav li a{
-	font-size: 18px;
+	font-size: 19px;
 	/*margin-left: -30px; - /Balikan mo ito kpag alam mo na mag adjust/*/
 	
 	
@@ -942,4 +942,5 @@ footer .testimage p {
 html {
   scroll-behavior: smooth;
 }
+
 
